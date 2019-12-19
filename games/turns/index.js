@@ -13,6 +13,10 @@ let colorSchemes = {
     dark: "#285912",
     light: "#83A603",
   },
+  purps: {
+    dark: "#802867",
+    light: "#FF9CE3",
+  }
 };
 
 // Populate color-picker options.
